@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Users/maxim/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/myProjects/Picasso/client/public/static/css/main.eb3e60b4.css",
+    "main.js": "/Users/maxim/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/myProjects/Picasso/client/public/static/js/main.0e6bdd73.js",
+    "index.html": "/Users/maxim/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/myProjects/Picasso/client/public/index.html",
+    "main.eb3e60b4.css.map": "/Users/maxim/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/myProjects/Picasso/client/public/static/css/main.eb3e60b4.css.map",
+    "main.0e6bdd73.js.map": "/Users/maxim/OneDrive/%D0%A0%D0%B0%D0%B1%D0%BE%D1%87%D0%B8%D0%B9%20%D1%81%D1%82%D0%BE%D0%BB/myProjects/Picasso/client/public/static/js/main.0e6bdd73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb3e60b4.css",
+    "static/js/main.0e6bdd73.js"
+  ]
+}

@@ -1,0 +1,18 @@
+.container__postItem
+{
+  background-color: rgb(249, 142, 220);
+  border: 1px solid black;
+  margin: 15px 10px;
+  padding: 10px;
+}
+.container__postItem div
+{
+  margin: 5px;
+}
+.postitem__btn
+{
+  box-sizing: content-box;
+  padding: 5px;
+  background-color: aqua;
+  border-radius: 10px;
+}
